@@ -6,7 +6,6 @@ cat todo2.solution
 cat christine.txt >> christinecopy.txt
 mv christinecopy.txt stevenrules.txt
 cat stevenrules.txt >> everything.txt
-cat everything.txt
 cat >> everything.txt
 'I like pina coladas and getting caught in the rain'
 ls *.txt
